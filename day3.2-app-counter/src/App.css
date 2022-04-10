@@ -1,0 +1,29 @@
+.App {
+  width:60%;
+  height: 300px;
+  margin: auto;
+  margin-top: 10%;
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  font-size: 2.5vw;
+}
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
+.btn{
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-around;
+}
+.btn button{
+  width: 15%;
+  color: white;
+  height: 30px;
+  background-color: rgb(9, 9, 33);
+}
