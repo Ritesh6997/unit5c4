@@ -1,0 +1,16 @@
+.App{
+  margin-left: 10%;
+  width: 80%;
+  height:300px;
+  background-color: rgb(217, 214, 214) ;
+}
+.App div:nth-child(2){
+  display:flex;
+  justify-content: space-around;
+}
+.App button{
+  margin-left: 5%;
+  margin-top: 2%;
+  color: white;
+  background-color: rgb(20, 20, 45);
+}
