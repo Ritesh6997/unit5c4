@@ -1,0 +1,21 @@
+.inputContainer{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+    padding: 30px 10px;
+
+}
+.inputContainer input{
+    padding: 30px;
+    width: 70%;
+    border-radius: 15px;
+    border: 0;
+    font-size: 30px;
+}
+.inputContainer button{
+    width: 15%;
+    font-size: 30px;
+    background-color: white;
+    border-radius: 15px;
+    border: 0;
+}
